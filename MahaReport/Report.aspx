@@ -16,6 +16,7 @@
             
             <rsweb:ReportViewer ID="ReportViewer1" runat="server" Width="1350px" Height="640px"></rsweb:ReportViewer>
         </div>
+       
     </form>
 </body>
 </html>
